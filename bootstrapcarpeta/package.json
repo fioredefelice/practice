@@ -1,0 +1,17 @@
+{
+  "name": "carpetadebootstrap",
+  "version": "1.0.0",
+  "description": "practica de git y bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fiorella"
+  ],
+  "author": "fiorella de felice",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.3.1"
+  }
+}
